@@ -1,12 +1,11 @@
 # Hi! I'm YL :sunglasses:
----
 
 ## About me 
-- :flag-tw: A Taiwanese :flag-tw: 
-- :robot_face: Currently studying  Machine Learning :robot_face: 
-- :book: And also web development too :book: 
-- :video_game: Also a gamer in loved with BTOW  :video_game: 
-- :badminton_racquet_and_shuttlecock: A badminton and volleyball player :volleyball: 
+- :book: A high school student in Taiwan 
+- 📚 Currently studying  Machine Learning 
+- :palm_tree: And also web development too 
+- :wind_chime: Also a gamer in loved with BTOW 
+- :volleyball: A badminton and volleyball player 
 
 ---
 ## Stats
