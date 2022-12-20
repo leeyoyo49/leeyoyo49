@@ -1,7 +1,7 @@
 # Hi I'm YL 
 
 ## About me 
-- 📚 Currently studying  Machine Learning 
+- 📚 Currently torture by calculus 
 - :wind_chime: Also a gamer in loved with BOTW 
 - :volleyball: A badminton and volleyball player 
 
