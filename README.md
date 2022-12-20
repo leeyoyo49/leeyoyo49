@@ -2,7 +2,7 @@
 
 ## About me 
 - 📚 Currently torture by calculus 
-- :wind_chime: Also a gamer in loved with BOTW 
+- :wind_chime: I wanna play BOTW2 
 - :volleyball: A badminton and volleyball player 
 
 ---
