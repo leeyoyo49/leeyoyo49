@@ -1,9 +1,7 @@
-# Hi! I'm YL :sunglasses:
+# Hi I'm YL 
 
 ## About me 
-- :book: A high school student in Taiwan 
 - 📚 Currently studying  Machine Learning 
-- :palm_tree: And also web development too 
 - :wind_chime: Also a gamer in loved with BOTW 
 - :volleyball: A badminton and volleyball player 
 
