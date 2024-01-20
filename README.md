@@ -25,8 +25,28 @@
 - NTU IM Programming for Business Computing TA
 
 ---
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Python%20%7C%20TensorFlow%20%7C%20PyTorch%20%7C%20Scikit--Learn%20%7C%20Pandas%20%7C%20NumPy%20%7C%20Git%20%7C%20GitHub-1abc9c.svg)](https://github.com/leeyoyo49)
 
+<div align="center">
+<table width="100%">
+<tr>
+<td valign="top" width="100%">
+<h3 align="center" margin="0">⚙️ Tech Stack</h4>
+</td>
+</tr>
+<tr>
+<td valign="top" width="100%">
+
+### Language :
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+
+### Data Science :
+![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
+![Pandas](https://img.shields.io/static/v1?style=for-the-badge&message=Pandas&color=150458&logo=Pandas&logoColor=FFFFFF&label=)
+![Scikit-Learn](https://img.shields.io/static/v1?style=for-the-badge&message=Scikit-Learn&color=F7931E&logo=scikit-learn&logoColor=FFFFFF&label=)
+![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
+![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
 
 ---
 
