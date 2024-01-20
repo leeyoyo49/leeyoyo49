@@ -47,6 +47,21 @@
 ![Scikit-Learn](https://img.shields.io/static/v1?style=for-the-badge&message=Scikit-Learn&color=F7931E&logo=scikit-learn&logoColor=FFFFFF&label=)
 ![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
 ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
+![Matplotlib](https://img.shields.io/static/v1?style=for-the-badge&message=Matplotlib&color=11557C&logo=Python&logoColor=FFFFFF&label=Matplotlib)
+![Seaborn](https://img.shields.io/static/v1?style=for-the-badge&message=Seaborn&color=4F94F4&logo=Python&logoColor=FFFFFF&label=Seaborn)
+![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=Jupyter)
+![SciPy](https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=8CAAE6&logo=SciPy&logoColor=FFFFFF&label=SciPy)
+
+### DevOps :
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![ngrok](https://img.shields.io/static/v1?style=for-the-badge&message=ngrok&color=1F1E37&logo=ngrok&logoColor=FFFFFF&label=)
+
+
+### IDE :
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=VS%20Code&color=007ACC&logo=Visual%20Studio%20Code&logoColor=FFFFFF&label=)
+![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
 
 ---
 
