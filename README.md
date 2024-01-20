@@ -14,9 +14,12 @@
 - Deep Learning techniques for computer vision and natural language processing
 - Advanced algorithms and models in the field of machine learning
 
+### 📚 Check Out some amazing Courses I've taken!
+- [Machine Learing Foundation and Techniques](https://github.com/leeyoyo49/NTU_2023Fall_MachineLearningFoundationAndTechniques)
+- [Statistical Learning and Machine Learning](https://github.com/leeyoyo49/NTU_2023Fall_SLML)
 ---
-## Stats
 
+## Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leeyoyo49&show_icons=true&theme=rose_pine&locale=en" alt="leeyoyo49" /></p>
 
