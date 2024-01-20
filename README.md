@@ -25,6 +25,10 @@
 - NTU IM Programming for Business Computing TA
 
 ---
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Python%20%7C%20TensorFlow%20%7C%20PyTorch%20%7C%20Scikit--Learn%20%7C%20Pandas%20%7C%20NumPy%20%7C%20Git%20%7C%20GitHub-1abc9c.svg)](https://github.com/leeyoyo49)
+
+
+---
 
 ## Stats
 
