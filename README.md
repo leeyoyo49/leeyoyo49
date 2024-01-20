@@ -5,11 +5,6 @@
 - 🧠 Passionate about Machine Learning and Artificial Intelligence
 - 💻 Currently exploring the intersection of code and data to solve real-world problems
 
-### 🛠️ Tech Stack
-- Python | TensorFlow | PyTorch
-- Scikit-Learn | Pandas | NumPy
-- Git | GitHub
-
 ### 🌱 Currently Learning
 - Deep Learning techniques for computer vision and natural language processing
 - Advanced algorithms and models in the field of machine learning
