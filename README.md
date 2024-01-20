@@ -1,9 +1,18 @@
-# Hi I'm YL 
+# 👋 Hello, World! I'm 李佑 YL
 
-## About me 
-- 📚 Currently torture by calculus 
-- :wind_chime: I wanna play BOTW2 
-- :volleyball: A badminton and volleyball player 
+### 🚀 About Me
+- 🎓 Sophomore at National Taiwan University (NTU)
+- 🧠 Passionate about Machine Learning and Artificial Intelligence
+- 💻 Currently exploring the intersection of code and data to solve real-world problems
+
+### 🛠️ Tech Stack
+- Python | TensorFlow | PyTorch
+- Scikit-Learn | Pandas | NumPy
+- Git | GitHub
+
+### 🌱 Currently Learning
+- Deep Learning techniques for computer vision and natural language processing
+- Advanced algorithms and models in the field of machine learning
 
 ---
 ## Stats
