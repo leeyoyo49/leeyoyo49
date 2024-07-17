@@ -14,7 +14,6 @@
 - [Statistical Learning and Machine Learning](https://github.com/leeyoyo49/NTU_2023Fall_StatisticalLearningMachineLearning)
 
 ### 📊 Experiences
-- MUN lecturer in WuLin Senior High school.
 - WuLin Senior High Computer Science Club 25th ： **[Lecturer](https://www.facebook.com/WLCSC/)**
 - NTU IM Calculus TA
 - NTU IM Programming for Business Computing TA
