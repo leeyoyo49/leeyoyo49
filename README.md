@@ -3,7 +3,6 @@
 ### 🚀 About Me
 - 🎓 Sophomore at National Taiwan University (NTU)
 - 🧠 Passionate about Machine Learning and Artificial Intelligence
-- 💻 Currently exploring the intersection of code and data to solve real-world problems
 
 ### 🌱 Currently Learning
 - Deep Learning techniques for computer vision and natural language processing
@@ -12,11 +11,6 @@
 ### 📚 Check Out some amazing Courses I've taken!
 - [Machine Learing Foundation and Techniques](https://github.com/leeyoyo49/NTU_2023Fall_MachineLearningFoundationAndTechniques)
 - [Statistical Learning and Machine Learning](https://github.com/leeyoyo49/NTU_2023Fall_StatisticalLearningMachineLearning)
-
-### 📊 Experiences
-- WuLin Senior High Computer Science Club 25th ： **[Lecturer](https://www.facebook.com/WLCSC/)**
-- NTU IM Calculus TA
-- NTU IM Programming for Business Computing TA
 
 ---
 
